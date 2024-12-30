@@ -1,0 +1,53 @@
+C:\Users\DELL\source\repos\ticket booking system\obj\Debug\ticket booking system.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\ticket booking system\obj\Debug\ticket_booking_system.Form1.resources
+C:\Users\DELL\source\repos\ticket booking system\obj\Debug\ticket_booking_system.Properties.Resources.resources
+C:\Users\DELL\source\repos\ticket booking system\obj\Debug\ticket booking system.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\ticket booking system\obj\Debug\ticket booking system.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ticket booking system\bin\Debug\ticket booking system.exe.config
+C:\Users\DELL\source\repos\ticket booking system\bin\Debug\ticket booking system.exe
+C:\Users\DELL\source\repos\ticket booking system\bin\Debug\ticket booking system.pdb
+C:\Users\DELL\source\repos\ticket booking system\obj\Debug\ticket booking system.exe
+C:\Users\DELL\source\repos\ticket booking system\obj\Debug\ticket booking system.pdb
+C:\Users\DELL 5410\OneDrive\Desktop\Ticket Booking Project\Ticket Booking Starter\ticket booking system\bin\Debug\ticket booking system.exe.config
+C:\Users\DELL 5410\OneDrive\Desktop\Ticket Booking Project\Ticket Booking Starter\ticket booking system\bin\Debug\ticket booking system.exe
+C:\Users\DELL 5410\OneDrive\Desktop\Ticket Booking Project\Ticket Booking Starter\ticket booking system\bin\Debug\ticket booking system.pdb
+C:\Users\DELL 5410\OneDrive\Desktop\Ticket Booking Project\Ticket Booking Starter\ticket booking system\obj\Debug\ticket booking system.csproj.AssemblyReference.cache
+C:\Users\DELL 5410\OneDrive\Desktop\Ticket Booking Project\Ticket Booking Starter\ticket booking system\obj\Debug\ticket_booking_system.Form1.resources
+C:\Users\DELL 5410\OneDrive\Desktop\Ticket Booking Project\Ticket Booking Starter\ticket booking system\obj\Debug\ticket_booking_system.Properties.Resources.resources
+C:\Users\DELL 5410\OneDrive\Desktop\Ticket Booking Project\Ticket Booking Starter\ticket booking system\obj\Debug\ticket booking system.csproj.GenerateResource.cache
+C:\Users\DELL 5410\OneDrive\Desktop\Ticket Booking Project\Ticket Booking Starter\ticket booking system\obj\Debug\ticket booking system.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5410\OneDrive\Desktop\Ticket Booking Project\Ticket Booking Starter\ticket booking system\obj\Debug\ticket booking system.exe
+C:\Users\DELL 5410\OneDrive\Desktop\Ticket Booking Project\Ticket Booking Starter\ticket booking system\obj\Debug\ticket booking system.pdb
+C:\Users\Dell\Downloads\Ticket Booking Project\Ticket Booking Starter\ticket booking system\bin\Debug\ticket booking system.exe.config
+C:\Users\Dell\Downloads\Ticket Booking Project\Ticket Booking Starter\ticket booking system\bin\Debug\ticket booking system.exe
+C:\Users\Dell\Downloads\Ticket Booking Project\Ticket Booking Starter\ticket booking system\bin\Debug\ticket booking system.pdb
+C:\Users\Dell\Downloads\Ticket Booking Project\Ticket Booking Starter\ticket booking system\bin\Debug\Cinema ticket booking.exe
+C:\Users\Dell\Downloads\Ticket Booking Project\Ticket Booking Starter\ticket booking system\bin\Debug\hotel managment system.exe
+C:\Users\Dell\Downloads\Ticket Booking Project\Ticket Booking Starter\ticket booking system\bin\Debug\hotel managment system.pdb
+C:\Users\Dell\Downloads\Ticket Booking Project\Ticket Booking Starter\ticket booking system\bin\Debug\hotel managment system.exe.config
+C:\Users\Dell\Downloads\Ticket Booking Project\Ticket Booking Starter\ticket booking system\bin\Debug\Cinema ticket booking.pdb
+C:\Users\Dell\Downloads\Ticket Booking Project\Ticket Booking Starter\ticket booking system\bin\Debug\Cinema ticket booking.exe.config
+C:\Users\Dell\Downloads\Ticket Booking Project\Ticket Booking Starter\ticket booking system\obj\Debug\ticket booking system.csproj.AssemblyReference.cache
+C:\Users\Dell\Downloads\Ticket Booking Project\Ticket Booking Starter\ticket booking system\obj\Debug\ticket_booking_system.Form1.resources
+C:\Users\Dell\Downloads\Ticket Booking Project\Ticket Booking Starter\ticket booking system\obj\Debug\ticket_booking_system.Properties.Resources.resources
+C:\Users\Dell\Downloads\Ticket Booking Project\Ticket Booking Starter\ticket booking system\obj\Debug\ticket booking system.csproj.GenerateResource.cache
+C:\Users\Dell\Downloads\Ticket Booking Project\Ticket Booking Starter\ticket booking system\obj\Debug\ticket booking system.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\Ticket Booking Project\Ticket Booking Starter\ticket booking system\obj\Debug\ticket b.AB045136.Up2Date
+C:\Users\Dell\Downloads\Ticket Booking Project\Ticket Booking Starter\ticket booking system\obj\Debug\ticket booking system.exe
+C:\Users\Dell\Downloads\Ticket Booking Project\Ticket Booking Starter\ticket booking system\obj\Debug\ticket booking system.pdb
+E:\sami c# project\Ticket Booking Project\Ticket Booking Starter\ticket booking system\obj\Debug\ticket booking system.csproj.AssemblyReference.cache
+E:\sami c# project\Ticket Booking Project\Ticket Booking Starter\ticket booking system\obj\Debug\ticket booking system.exe
+E:\sami c# project\Ticket Booking Project\Ticket Booking Starter\ticket booking system\obj\Debug\ticket booking system.pdb
+E:\sami c# project\Ticket Booking Project\Ticket Booking Starter\ticket booking system\bin\Debug\ticket booking system.exe.config
+E:\sami c# project\Ticket Booking Project\Ticket Booking Starter\ticket booking system\bin\Debug\ticket booking system.exe
+E:\sami c# project\Ticket Booking Project\Ticket Booking Starter\ticket booking system\bin\Debug\ticket booking system.pdb
+E:\sami c# project\Ticket Booking Project\Ticket Booking Starter\ticket booking system\bin\Debug\hotel managment system.exe
+E:\sami c# project\Ticket Booking Project\Ticket Booking Starter\ticket booking system\bin\Debug\hotel managment system.pdb
+E:\sami c# project\Ticket Booking Project\Ticket Booking Starter\ticket booking system\bin\Debug\hotel managment system.exe.config
+E:\sami c# project\Ticket Booking Project\Ticket Booking Starter\ticket booking system\bin\Debug\Cinema ticket booking.pdb
+E:\sami c# project\Ticket Booking Project\Ticket Booking Starter\ticket booking system\bin\Debug\Cinema ticket booking.exe.config
+E:\sami c# project\Ticket Booking Project\Ticket Booking Starter\ticket booking system\obj\Debug\ticket_booking_system.Form1.resources
+E:\sami c# project\Ticket Booking Project\Ticket Booking Starter\ticket booking system\obj\Debug\ticket_booking_system.Properties.Resources.resources
+E:\sami c# project\Ticket Booking Project\Ticket Booking Starter\ticket booking system\obj\Debug\ticket booking system.csproj.GenerateResource.cache
+E:\sami c# project\Ticket Booking Project\Ticket Booking Starter\ticket booking system\obj\Debug\ticket booking system.csproj.CoreCompileInputs.cache
+E:\sami c# project\Ticket Booking Project\Ticket Booking Starter\ticket booking system\obj\Debug\ticket b.AB045136.Up2Date

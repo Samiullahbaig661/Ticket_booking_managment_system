@@ -1,0 +1,13 @@
+C:\Users\DELL 5410\OneDrive\Desktop\Cinema ticket booking\bin\Debug\Cinema ticket booking.exe.config
+C:\Users\DELL 5410\OneDrive\Desktop\Cinema ticket booking\bin\Debug\Cinema ticket booking.exe
+C:\Users\DELL 5410\OneDrive\Desktop\Cinema ticket booking\bin\Debug\Cinema ticket booking.pdb
+C:\Users\DELL 5410\OneDrive\Desktop\Cinema ticket booking\obj\Debug\Cinema ticket booking.csproj.AssemblyReference.cache
+C:\Users\DELL 5410\OneDrive\Desktop\Cinema ticket booking\obj\Debug\Cinema_ticket_booking.Form1.resources
+C:\Users\DELL 5410\OneDrive\Desktop\Cinema ticket booking\obj\Debug\Cinema_ticket_booking.MovieSelectionForm.resources
+C:\Users\DELL 5410\OneDrive\Desktop\Cinema ticket booking\obj\Debug\Cinema_ticket_booking.BookingHistoryForm.resources
+C:\Users\DELL 5410\OneDrive\Desktop\Cinema ticket booking\obj\Debug\Cinema_ticket_booking.AvailableMoviesForm.resources
+C:\Users\DELL 5410\OneDrive\Desktop\Cinema ticket booking\obj\Debug\Cinema_ticket_booking.Properties.Resources.resources
+C:\Users\DELL 5410\OneDrive\Desktop\Cinema ticket booking\obj\Debug\Cinema ticket booking.csproj.GenerateResource.cache
+C:\Users\DELL 5410\OneDrive\Desktop\Cinema ticket booking\obj\Debug\Cinema ticket booking.csproj.CoreCompileInputs.cache
+C:\Users\DELL 5410\OneDrive\Desktop\Cinema ticket booking\obj\Debug\Cinema ticket booking.exe
+C:\Users\DELL 5410\OneDrive\Desktop\Cinema ticket booking\obj\Debug\Cinema ticket booking.pdb
